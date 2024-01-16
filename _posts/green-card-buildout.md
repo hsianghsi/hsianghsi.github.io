@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Green Card Buildout
 author: Hsiang Hsi Lu
 year: 2023

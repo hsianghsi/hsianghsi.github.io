@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Bushwick's Work in Progress
 author: Hsiang Hsi Lu
 year: 2023

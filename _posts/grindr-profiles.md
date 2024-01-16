@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Grindr Profiles
 author: Hsiang Hsi Lu
 year: 2021
