@@ -1,0 +1,7 @@
+<!-- _includes/post-list.liquid -->
+
+<div class="project-table">
+  {% for post in collections.posts %}
+    <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+  {% endfor %}
+</div>
