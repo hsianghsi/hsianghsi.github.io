@@ -3,13 +3,17 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/styles.css">
     <title>{{ title }}</title>
   </head>
   <body>
-    <div class="container">
-      <h1>{{ title }}</h1>
-      <div class="description">
+    <div class="header">
+        <h1><a href="/_site/index.html">Hsiang Hsi Lu</a></h1>
+    </div>
+    <div class="post">
+      <h3>{{ title }}</h3>
+      <div>
+        {{ year }}
         {{ content }}
       </div>
     </div>
