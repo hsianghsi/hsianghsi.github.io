@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
     });
   
     return {
-      markdownTemplateEngine: "html",
+      markdownTemplateEngine: "liquid",
       dir: {
         input: ".",
         output: "_site",
