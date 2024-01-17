@@ -5,7 +5,7 @@ author: Hsiang Hsi Lu
 year: 2023
 image: img/bushwick/thumbnail.jpg
 ---
-![123 Melrose](/img/bushwick//123melrose.jpg)
+![123 Melrose](/img/bushwick/123melrose.jpg)
 
 *A new complex at 123 Melrose Street in Bushwick.*
 

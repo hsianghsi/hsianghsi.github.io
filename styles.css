@@ -71,3 +71,19 @@ a:hover {
     font-size: 21px;
     font-weight: 400;
 }
+
+.post img {
+    width: 100%; 
+    height: auto; 
+  }
+
+.post img.expanded {
+  width: 100vw; 
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  object-fit: contain;
+  z-index: 1000; 
+  cursor: pointer;
+}

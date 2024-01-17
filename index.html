@@ -8,20 +8,21 @@
 </head>
 <body>
     <div class="header">
-        <h1>Hsiang Hsi Lu</a></h1>
+        <h1>Hsiang Hsi Lu</h1>
     </div>
     <div class="container">
         <div class="description">
             <p>Hsiang Hsi Lu, a researcher, artist, and urban analyst, splits his time between New York and Taipei. His work centers on data-driven urbanism by analyzing cities, policy, and spatial trends. His work has been exhibited at the Carriage Trade Gallery, SVA Flatiron Gallery, and others. He holds a Master of Science in Computational Design Practices from Columbia University and a Bachelor of Science in Industrial Design from National Cheng Kung University.</p>
             <br>
             <p>Instagram: <a href="https://www.instagram.com/hsiang_hsi/">@hsiang_hsi</a><br>
-               Email: <a href="luhsianghsi@gmail.com">luhsianghsi@gmail.com</a></p>
+               Email: <a href="mailto:luhsianghsi@gmail.com">luhsianghsi@gmail.com</a></p>
         </div>
         <div class="post-list">
             {% for post in collections.posts %}
                 <h3><a href="{{ '/_site' }}{{ post.url | url }}">{{ post.data.title }}</a></h3>
             {% endfor %}
         </div>
+        <script src="/script.js"></script>
     </div>
 </body>
 </html>
