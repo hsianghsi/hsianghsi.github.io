@@ -5,7 +5,7 @@ author: Hsiang Hsi Lu
 year: 2021
 image: img/grindr/aaa.jpg
 ---
-[![](img/grindr/G-profiles-participant.png)](https://hsianghsi.github.io/eb5_NY/)
+[![](/img/grindr/G-profiles-participant.png)](https://hsianghsi.github.io/eb5_NY/)
 
 *The map shows the project documentation. Click for interactive view.*
 
@@ -17,7 +17,7 @@ Encompassing a diverse range of 195 participants aged 19 to 75, the profiles rep
 
 #### Introduction
 
-![](img/grindr/VIN_8260.jpg)
+![](/img/grindr/VIN_8260.jpg)
 
 *A user's living space.*
 
@@ -33,7 +33,7 @@ Taking an investigative approach, I started inviting users to participate by pho
 
 #### Afterword
 
-![](img/grindr/everyone-3.jpg)
+![](/img/grindr/everyone-3.jpg)
 
 *Headshots from all participants.*
 

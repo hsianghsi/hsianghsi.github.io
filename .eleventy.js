@@ -1,4 +1,18 @@
+const markdownIt = require("markdown-it");
+const markdownItFootnote = require("markdown-it-footnote");
+const markdownImplicitFigures = require('markdown-it-implicit-figures');
+
 module.exports = function(eleventyConfig) {
+
+    // configure markdown library to use custom plugins
+    const markdownLib = markdownIt({
+        html: true,
+        linkify: true,
+    })
+        .use(markdownItFootnote) // add footnote plugin
+        //.use(markdownImplicitFigures, {figcaption: true}); // add implicit figures
+    eleventyConfig.setLibrary("md", markdownLib);
+
     eleventyConfig.addCollection('posts', function(collection) {
         return collection.getFilteredByGlob('_posts/*.md');
     });
