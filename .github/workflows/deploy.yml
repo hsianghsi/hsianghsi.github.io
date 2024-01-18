@@ -47,7 +47,7 @@ jobs:
 
       - name: Set up Git and Deploy to GitHub Pages
         run: |
-          cd ${{ github.workspace }}/site  # Navigate to the _site directory
+          cd site  # Navigate to the _site directory
           git init
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
@@ -56,4 +56,3 @@ jobs:
           git push --force "https://$GITHUB_ACTOR:${{ secrets.DEPLOY_TOKEN }}@github.com/${{ github.repository }}.git" main:gh-pages
         env:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
-
