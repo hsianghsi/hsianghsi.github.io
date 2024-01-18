@@ -40,12 +40,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Debug current directory
-        run: |
-          pwd
-        env:
-          GITHUB_WORKSPACE: ${{ github.workspace }}
-
       - name: Download artifact
         uses: actions/download-artifact@v2
         with:
@@ -63,11 +57,10 @@ jobs:
           git push origin main -v
         env:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site  # Specify the _site folder for deployment
-
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
