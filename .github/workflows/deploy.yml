@@ -29,7 +29,6 @@ jobs:
 
       - name: Build site
         run: |
-          cd ${{ github.workspace }}
           npm run build
 
       - name: Upload artifact
@@ -49,7 +48,7 @@ jobs:
 
       - name: Set up Git and Debug Git Push
         run: |
-          cd ${{ github.workspace }}
+          cd ${{ github.workspace }}/website
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git push origin main -v
