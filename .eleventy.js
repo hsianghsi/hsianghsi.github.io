@@ -1,20 +1,24 @@
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
-const markdownImplicitFigures = require('markdown-it-implicit-figures');
 
 module.exports = function(eleventyConfig) {
-
-    // configure markdown library to use custom plugins
+    // Configure markdown library to use custom plugins
     const markdownLib = markdownIt({
         html: true,
         linkify: true,
-    })
-        .use(markdownItFootnote) // add footnote plugin
-        //.use(markdownImplicitFigures, {figcaption: true}); // add implicit figures
+    }).use(markdownItFootnote); // add footnote plugin
+
     eleventyConfig.setLibrary("md", markdownLib);
 
     eleventyConfig.addCollection('posts', function(collection) {
-        return collection.getFilteredByGlob('_posts/*.md');
+        // Copy Markdown files from _posts to _site
+        eleventyConfig.addPassthroughCopy('_posts/*.md');
+        
+        // Manually set the outputPath to include _site
+        return collection.getFilteredByGlob('_posts/**/*.md').map(post => {
+            post.outputPath = '_site/' + post.fileSlug + '/index.html';
+            return post;
+        });
     });
 
     eleventyConfig.addFilter("slugify", function(str) {
@@ -39,9 +43,20 @@ module.exports = function(eleventyConfig) {
         passthroughFileCopy: true,
         htmlTemplateEngine: "liquid",
         templateFormats: ["html", "liquid", "md"],
-        permalink: "{{ post.url | url }}",
     };
 };
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
