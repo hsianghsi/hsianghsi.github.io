@@ -57,10 +57,9 @@ jobs:
           git push origin main -v
         env:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.DEPLOY_TOKEN }}
           publish_dir: ./_site
