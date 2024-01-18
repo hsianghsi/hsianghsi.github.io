@@ -5,7 +5,7 @@ author: Hsiang Hsi Lu
 year: 2023
 image: /website/raw/main/img/bushwick/thumbnail.jpg
 ---
-![123 Melrose](/website/raw/main/img/bushwick/123melrose.jpg)
+![123 Melrose]({{ "/img/bushwick/123melrose.jpg" | adjustImagePath }} )
 
 *A new complex at 123 Melrose Street in Bushwick.*
 
@@ -18,7 +18,7 @@ In a shrinking regional economy, urban revitalization is crucial to bring new li
  
 #### The Developer’s Town: The Cluster Effect of the Owner’s Address
 
-![Owner's Address Cluster](/website/raw/main/img/bushwick/hhl_map1.jpg)
+![Owner's Address Cluster]({{ "/img/bushwick/hhl_map1.jpg" | adjustImagePath}} )
 
 *The map shows the spatial relationship between the owner’s address and Bushwick’s new building.*
 
@@ -29,7 +29,7 @@ The majority of the owners are from Bushwick’s adjacent neighborhoods: South W
 
 #### Top Owner by Name
 
-![Top Owner's Address](/website/raw/main/img/bushwick/hhl_map2.jpg)
+![Top Owner's Address]({{ "/img/bushwick/hhl_map2.jpg" | adjustImagePath }})
 
 *The map shows the top 12 owners’s (outliers) location. The color indicates having multiple owner’s addresses.*
 
@@ -37,51 +37,51 @@ There are 299 individual owners to develop 536 new buildings from 2008-2022. Mos
 
 Based on the permit issuance, Bob Michaeli (Robert Michaeli) is the top owner of Bushwick’s new buildings. Bob Michaeli is the project manager at Urban View Development Group Inc., a South Williamsburg-based real estate firm. The second top owner is NYC HPD which is represented by Timothy Joseph and Shampa Chanda.
 
-![Top Owner's Network](/website/raw/main/img/bushwick/hhl_chart1.jpg)
+![Top Owner's Network]({{ "/img/bushwick/hhl_chart1.jpg" | adjustImagePath }})
 
 *The diagram shows Bob Michaeli’s network with the new building and the contractor (builder).*
 
-![101 Broadway](/website/raw/main/img/bushwick/101bway.jpg)
+![101 Broadway]({{ "/img/bushwick/101bway.jpg" | adjustImagePath }})
 
 *Bob Michaeli's Urban View Development Group Inc. is registered at 101 Broadway in South Williamsburg. The company's name doesn't show up in the directory. Based on Google reviews, it is likely associated with Prospect Management at the bottom right.*
 
 
 #### Top Owner’s Address
 
-![Top Shared Owner's Address](/website/raw/main/img/bushwick/hhl_map3.jpg)
+![Top Shared Owner's Address]({{ "/img/bushwick/hhl_map3.jpg" | adjustImagePath }})
 
 *The map shows the top owners' (outliers) addresses. The blue color indicates they have multiple owners at the same address.*
 
 There are 291 unique owner’s (business) addresses compared to 299 individual owners for 536 new buildings. It indicates there are shared owner’s addresses at the same buildings. There are two possible scenarios. First, the shared address has private mailboxes for different LLCs. Addresses like 320 Roebling Street and 199 Lee Avenue provide mailing service on the first floor. Second, there are other fee developers for the same real estate firm, and they all use the real estate firm’s address as the owner's address. 12 top owner’s addresses (outliers) developed 161 buildings, which took around 30% of the entire Bushwick’s new buildings. The top shared owner’s address is 199 Lee Avenue in South Williamsburg. 37 new building LLCs are based at this address.
 
-![Shipping Store](/website/raw/main/img/bushwick/320robeling.gif)
+![Shipping Store]({{ "/img/bushwick/320robeling.gif" | adjustImagePath }})
 
 *The 3D models above depict local shipping stores in South Williamsburg that offer private mailbox services for property owners and developers. The store "Hello Mailbox" is located at 320 Roebling Street.*
 
-![199 Lee Avenue](/website/raw/main/img/bushwick/199lee.jpg)
+![199 Lee Avenue]({{ "/img/bushwick/199lee.jpg" | adjustImagePath }})
 
 *The storefront of 199 Lee Avenue is a shipping store. There are multiple building LLCs registered at this location.*
 
-![The Most Shared Owner's Address](/website/raw/main/img/bushwick/hhl_chart3.jpg)
+![The Most Shared Owner's Address]({{ "img/bushwick/hhl_chart3.jpg" | adjustImagePath }})
 
 *The diagram shows 199 Lee Avenue’s network with the registered owner and the new building.*
 
 #### Top Builder
 
-![Top Builder's Buildings](/website/raw/main/img/bushwick/top_builder.jpg)
+![Top Builder's Buildings]({{ "/img/bushwick/top_builder.jpg" | adjustImagePath }})
 
 *The plot shows properties built by Gerald J Caliendo. Most buildings are multi-family housing with a humble look.*
 
 There are 152 builders, including architects or contractors, for 536 new buildings. The top builders (outliers), sorted descendingly, are Gerald J Caliendo (52), Bahram Tehrani (31), Wu (Woody) Chen (30), Olabanji Awosika (28), Diego B Aguilera (21), Suresh Manchanda (19), Charles Mallea (16), Boaz Golani (15), Robert Bianchini (14), Aryeh Siegel (10), and Douglas Pulaski (10). 45.9% of the new buildings were built by the listed builders. Gerald J Caliendo tops the chart by building 52 new buildings in Bushwick.
 
-![Top Builder's Network](/website/raw/main/img/bushwick/hhl_chart2.jpg)
+![Top Builder's Network]({{ "/img/bushwick/hhl_chart2.jpg" | adjustImagePath }})
 
 *The diagram shows Gerald J Caliendo’s network with the owner and the building.*
 
 
 #### Conclusion
 
-![334 Evergreen Avenue](/website/raw/main/img/bushwick/334evergreen.jpg)
+![334 Evergreen Avenue]({{ "/img/bushwick/334evergreen.jpg" | adjustImagePath }})
 
 *The piano building at 334 Evergreen Ave was developed by Joel Friedman and built by Shawn E Stiles.*
 

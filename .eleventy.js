@@ -28,6 +28,11 @@ module.exports = function(eleventyConfig) {
         return str.replace(/\s+/g, '-').toLowerCase();
     });
 
+    eleventyConfig.addFilter("adjustImagePath", function(path) {
+        const githubBaseUrl = "https://raw.githubusercontent.com/hsianghsi/website/main";
+        return `${githubBaseUrl}${path}`;
+    });
+
     // Copy styles.css and script.js to the output directory
     eleventyConfig.addPassthroughCopy("styles.css");
     eleventyConfig.addPassthroughCopy("script.js");
