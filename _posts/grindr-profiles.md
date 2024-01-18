@@ -5,7 +5,7 @@ author: Hsiang Hsi Lu
 year: 2021
 image: img/grindr/aaa.jpg
 ---
-[![](/img/grindr/G-profiles-participant.png)](https://hsianghsi.github.io/eb5_NY/)
+[![](/img/grindr/g-main-2.png)](https://hsianghsi.github.io/g-profiles/)
 
 *The map shows the project documentation. Click for interactive view.*
 
