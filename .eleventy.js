@@ -24,6 +24,10 @@ module.exports = function(eleventyConfig) {
         return str.replace(/\s+/g, '-').toLowerCase();
     });
 
+    // Copy styles.css and script.js to the output directory
+    eleventyConfig.addPassthroughCopy("styles.css");
+    eleventyConfig.addPassthroughCopy("script.js");
+
     return {
         markdownTemplateEngine: "liquid",
         dir: {

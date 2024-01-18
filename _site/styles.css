@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.post-list h3 {
+    margin: 2px 0;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 2;
+}
+
+em{
+    color: grey;
+}
+
+.header{
+    margin: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+}
+
+.description{
+    margin-top: 10px;
+    position: fixed;
+    top: 40%;
+    transform: translateY(-50%); 
+    width: 55%;
+}
+
+.description p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.post-list {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 50px;
+    width: 100%;
+}
+
+.post {
+    margin-top: 10px;
+    margin-left: 50px;
+    position: relative;
+    top: 10%; 
+    width: 55%;
+}
+
+.post img {
+    width: 100%; 
+    height: auto;
+    cursor: pointer; 
+  }
+
+.post img.expanded {
+    width: 90vw;
+    height: auto;
+    object-fit: contain;
+    cursor: pointer;
+    position: relative;
+    left: 0;
+    transition: width 0.2s ease;
+  }
+  
+  @media (max-width: 1024px) {
+    .description{
+        width: 85%;
+    }
+
+    .post {
+        width: 85%;
+    }
+    .post img.expanded {
+        width: 100vw;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+  }
+  
