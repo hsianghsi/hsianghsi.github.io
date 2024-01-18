@@ -46,14 +46,13 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: site
-          
-      - name: Set up Git
+
+      - name: Set up Git and Debug Git Push
         run: |
+          cd ${{ github.workspace }}
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-
-      - name: Debug Git Push
-        run: git push origin main -v
+          git push origin main -v
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
