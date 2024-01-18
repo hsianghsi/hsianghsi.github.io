@@ -59,7 +59,10 @@ jobs:
           cd ${{ github.workspace }}
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git remote set-url origin https://$GITHUB_ACTOR:${{ secrets.DEPLOY_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote remove origin
+          git remote add origin "https://$GITHUB_ACTOR:${{ secrets.DEPLOY_TOKEN }}@github.com/${{ github.repository }}.git"
+          git branch -m main  # Rename the branch if it's not already named 'main'
+          git fetch origin
           git push origin main -v
         env:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
@@ -67,5 +70,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.DEPLOY_TOKEN }}
           publish_dir: ./_site
+
