@@ -3,9 +3,9 @@ layout: post
 title: Grindr Profiles
 author: Hsiang Hsi Lu
 year: 2021
-image: img/grindr/aaa.jpg
+image: /website/raw/main/img/grindr/aaa.jpg
 ---
-[![](/img/grindr/g-main-2.png)](https://hsianghsi.github.io/g-profiles/)
+[![](/website/raw/main/img/grindr/g-main-2.png)](https://hsianghsi.github.io/g-profiles/)
 
 *The map shows the project documentation. Click for interactive view.*
 
@@ -17,7 +17,7 @@ Encompassing a diverse range of 195 participants aged 19 to 75, the profiles rep
 
 #### Introduction
 
-![](/img/grindr/VIN_8260.jpg)
+![](/website/raw/main/img/grindr/VIN_8260.jpg)
 
 *A user's living space.*
 
@@ -31,7 +31,7 @@ From the thumbnail display, I noticed that each neighborhood had its own spatial
 
 Taking an investigative approach, I started inviting users to participate by photographing their residences and collecting their online profiles through mass sampling across the city. With a neutral self-portrait and a brief project description on my profile, I sent the same message to thousands of people over a year on a daily basis: “Can I photograph you and your place?”.
 
-![](/img/grindr/everyone-3.jpg)
+![](/website/raw/main/img/grindr/everyone-3.jpg)
 
 *Headshots from all participants.*
 
