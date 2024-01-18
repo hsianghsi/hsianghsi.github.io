@@ -48,7 +48,7 @@ jobs:
 
       - name: Set up Git and Debug Git Push
         run: |
-          cd ${{ github.workspace }}/website
+          cd ${{ github.workspace }}
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git push origin main -v
@@ -58,3 +58,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
+
