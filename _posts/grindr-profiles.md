@@ -31,11 +31,11 @@ From the thumbnail display, I noticed that each neighborhood had its own spatial
 
 Taking an investigative approach, I started inviting users to participate by photographing their residences and collecting their online profiles through mass sampling across the city. With a neutral self-portrait and a brief project description on my profile, I sent the same message to thousands of people over a year on a daily basis: “Can I photograph you and your place?”.
 
-#### Afterword
-
 ![](/img/grindr/everyone-3.jpg)
 
 *Headshots from all participants.*
+
+#### Afterword
 
 As a photographer and a user myself, I want to understand the underlying reasons that bring people together on this platform at a particular place and moment. The research question has an open-ended answer. It shoots a firework into the sky and results in endless sparks. Although the project has a social science inclination, I would view it as an experimental art practice. Nonetheless, I believe that photography and mapping can holistically address the empirical gaps that arise from the decoupling of art from social science.
 

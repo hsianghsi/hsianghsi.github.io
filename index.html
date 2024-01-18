@@ -12,14 +12,15 @@
     </div>
     <div class="container">
         <div class="description">
-            <p>Hsiang Hsi Lu, a researcher, artist, and urban analyst, splits his time between New York and Taipei. His work centers on data-driven urbanism by analyzing cities, policy, and spatial trends. His work has been exhibited at the Carriage Trade Gallery, SVA Flatiron Gallery, and others. He holds a Master of Science in Computational Design Practices from Columbia University and a Bachelor of Science in Industrial Design from National Cheng Kung University.</p>
+            <p>Hsiang Hsi Lu is a researcher, photographer, and urban analyst who splits his time between New York and Taipei. His work focuses on data-driven urbanism, analyzing cities, built environment, and spatial trends. He has exhibited his work at the Carriage Trade Gallery, SVA Flatiron Gallery, and others. He holds a Master of Science in Computational Design Practices from Columbia University and a Bachelor of Science in Industrial Design from National Cheng Kung University.</p>
             <br>
             <p>Instagram: <a href="https://www.instagram.com/hsiang_hsi/">@hsiang_hsi</a><br>
                Email: <a href="mailto:luhsianghsi@gmail.com">luhsianghsi@gmail.com</a></p>
         </div>
         <div class="post-list">
             {% for post in collections.posts %}
-                <h3><a href="{{ '/_site' }}{{ post.url | url }}">{{ post.data.title }}</a></h3>
+            {% assign sortedPosts = collections.posts | sort: 'data.year' | reverse %}
+                <h3><a href="{{ '/_site' }}{{ post.url | url }}">{{ post.data.title }} ({{ post.data.year }})</a></h3>
             {% endfor %}
         </div>
         <script src="/script.js"></script>
