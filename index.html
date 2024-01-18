@@ -20,7 +20,7 @@
         <div class="post-list">
             {% for post in collections.posts %}
             {% assign sortedPosts = collections.posts | sort: 'data.year' | reverse %}
-                <h3><a href="{{ '/_site' }}{{ post.url | url }}">{{ post.data.title }} ({{ post.data.year }})</a></h3>
+                <h3><a href="{{ post.url | url }}">{{ post.data.title }} ({{ post.data.year }})</a></h3>
             {% endfor %}
         </div>
         <script src="/script.js"></script>

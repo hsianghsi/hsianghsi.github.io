@@ -35,7 +35,7 @@ module.exports = function(eleventyConfig) {
         passthroughFileCopy: true,
         htmlTemplateEngine: "liquid",
         templateFormats: ["html", "liquid", "md"],
-        permalink: "/_site{{ post.url }}",
+        permalink: "{{ post.url | url }}",
     };
 };
 
