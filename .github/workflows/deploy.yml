@@ -29,7 +29,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
-          name: site
           path: _site
 
   deploy:
@@ -41,8 +40,6 @@ jobs:
     steps:
       - name: Download artifact
         uses: actions/download-artifact@v2
-        with:
-          name: site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
