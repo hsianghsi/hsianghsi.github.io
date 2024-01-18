@@ -40,6 +40,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Debug current directory
+        run: |
+          pwd
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+
       - name: Download artifact
         uses: actions/download-artifact@v2
         with:
@@ -63,5 +69,15 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v2
         with:
-          deploy_key: ${{ secrets.DEPLOY_TOKEN }}
+          entryPoint: 'echo'
+          args: 'Deploying to GitHub Pages'
+          emptyCommits: true
+          keepFiles: false
+          forceOrphan: true
+          username: ${{ github.actor }}
+          useremail: actions@github.com
+          commitMessage: 'Deploy to GitHub Pages'
+          tagName: 'v1.0'
+          tagMessage: 'Release v1.0'
+          tagOverwrite: true
           publish_dir: ./_site
