@@ -10,8 +10,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Build site
-        run: npm run build -- --pathprefix="${{ steps.pages.outputs.base_path }}"
+        run: |
+          cd ${{ github.workspace }}
+          npm run build -- --pathprefix="${{ steps.pages.outputs.base_path }}"
+
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
@@ -23,5 +37,7 @@ jobs:
     steps:
       - name: Download artifact
         uses: actions/download-artifact@v2
+
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
+
