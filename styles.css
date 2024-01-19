@@ -104,6 +104,7 @@ a:hover {
     }
     .post {
         width: 90%;
+        margin-left: 0%;
         left: 50%;
         transform: translateX(-50%);
     }
