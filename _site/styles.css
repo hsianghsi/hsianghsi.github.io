@@ -100,10 +100,12 @@ a:hover {
   
   @media (max-width: 1024px) {
     .description {
-        width: 85%;
+        width: 90%;
     }
     .post {
-        width: 85%;
+        width: 90%;
+        left: 50%;
+        transform: translateX(-50%);
     }
     .post img.expanded {
         width: 100vw;
