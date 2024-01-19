@@ -107,8 +107,9 @@ a:hover {
     }
     .post img.expanded {
         width: 100vw;
-        left: 55%;
+        left: 50%;
         transform: translateX(-50%);
+        margin: 0;
       }
   }
   
