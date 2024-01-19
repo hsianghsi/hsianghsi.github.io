@@ -34,7 +34,8 @@ em{
 }
 
 .header{
-    margin: 5%;
+    margin-top: 50px;
+    margin-left: 5%;
 }
 
 .container {
@@ -106,7 +107,7 @@ a:hover {
     }
     .post img.expanded {
         width: 100vw;
-        left: 50%;
+        left: 45%;
         transform: translateX(-50%);
       }
   }
