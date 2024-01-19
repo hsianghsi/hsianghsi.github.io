@@ -4,7 +4,7 @@ title: Grindr Profiles
 author: Hsiang Hsi Lu
 year: 2021
 ---
-[![](https://hsianghsi.github.io/g-profiles/)]({{"/img/grindr/g-main-2.png" | adjustImagePath }})
+[![]({{ "/img/grindr/g-main-2.png" | adjustImagePath }})](https://hsianghsi.github.io/g-profiles/)
 
 *The map shows the project documentation. Click for interactive view.*
 
