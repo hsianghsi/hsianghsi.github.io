@@ -11,4 +11,14 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 
+document.addEventListener("DOMContentLoaded", function() {
+  const imageLink = document.querySelector('.post a[href$=".png"]');
+
+  if (imageLink) {
+    imageLink.addEventListener("click", function(event) {
+      event.preventDefault();
+      window.open(this.href, "_blank");
+    });
+  }
+});
   

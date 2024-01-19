@@ -3,9 +3,8 @@ layout: post
 title: Bushwick's Work in Progress
 author: Hsiang Hsi Lu
 year: 2023
-image: /website/raw/main/img/bushwick/thumbnail.jpg
 ---
-![123 Melrose]({{ "/img/bushwick/123melrose.jpg" | adjustImagePath }} )
+![123 Melrose]({{ "/img/bushwick/123melrose.jpg" | adjustImagePath }})
 
 *A new complex at 123 Melrose Street in Bushwick.*
 
@@ -18,7 +17,7 @@ In a shrinking regional economy, urban revitalization is crucial to bring new li
  
 #### The Developer’s Town: The Cluster Effect of the Owner’s Address
 
-![Owner's Address Cluster]({{ "/img/bushwick/hhl_map1.jpg" | adjustImagePath}} )
+![Owner's Address Cluster]({{ "/img/bushwick/hhl_map1.jpg" | adjustImagePath}})
 
 *The map shows the spatial relationship between the owner’s address and Bushwick’s new building.*
 
@@ -62,7 +61,7 @@ There are 291 unique owner’s (business) addresses compared to 299 individual o
 
 *The storefront of 199 Lee Avenue is a shipping store. There are multiple building LLCs registered at this location.*
 
-![The Most Shared Owner's Address]({{ "img/bushwick/hhl_chart3.jpg" | adjustImagePath }})
+![The Most Shared Owner's Address]({{ "/img/bushwick/hhl_chart3.jpg" | adjustImagePath }})
 
 *The diagram shows 199 Lee Avenue’s network with the registered owner and the new building.*
 
