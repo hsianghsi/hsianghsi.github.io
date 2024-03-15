@@ -4,14 +4,14 @@ title: Dimes Square Guide
 author: Hsiang Hsi Lu
 year: 2024
 ---
-![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimesfilm/dimes_La_Dive_1.jpg" }})
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimesfilm/dimes_La_Dive_1.jpg" }})
 *The outdoor sitting space next to Le Dive in Dimes Square.*
 
 The project aims to explore the evolution of the trendy locale known as "Dimes Square" in Lower Manhattan, utilizing open data, mapping, and photography. By spatially connecting business ownership, the project reveals the hidden dynamics of taste influence within New York City and beyond. Dimes Square culinary scene offers a unique example in the context of urban regeneration. Inquiring the place making of Dimes Square, we must trace all business development footprints in the area.
 
 #### Introduction: A Geographic Guide to Cultural Influence
 
-[![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimes_graph/DS_main_3.png"}})](https://hsianghsi.github.io/dimes/)
+[![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimes_graph/DS_main_3.png"}})](https://hsianghsi.github.io/dimes/)
 
 *Click for the interactive map.*
 
@@ -23,7 +23,7 @@ Analyzing yearly bar and restaurant openings from New York Open Data allows us t
 
 #### When was Dime Square a Thing? Looking into Business Opening Timeline
 
-![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimes_graph/DS_openings_plot_1.png" }})
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimes_graph/DS_openings_plot_1.png" }})
 *The line chart depicts the yearly distribution of Dimes Square culinary business openings.*
 
 The data includes businesses that have or had obtained on-premises liquor licenses, regardless of whether they are active or not.
@@ -32,7 +32,7 @@ From the yearly distribution, two surges in openings are evident. The first wave
 
 #### Is It Local? The Inflow and Outflow of Restauranteur Migration
 
-![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimes_graph/DS_flow_2.png" }})
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimes_graph/DS_flow_2.png" }})
 *The map depicts the first and the last business ventures for the same owners.*
 
 As of the end of 2023, there were 60 owners who own or have partnerships in 31 operating establishments with on-premises liquor licenses in Dimes Square. I will break down the business opening patterns in the following section.
@@ -53,7 +53,7 @@ In summary, over half of the current businesses were born locally or are local s
 
 #### Linking Dimes Square Restaurant Ownership
 
-[![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimes_graph/DS_owner_1.png" }})](https://hsianghsi.github.io/dimes_spring/)
+[![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimes_graph/DS_owner_1.png" }})](https://hsianghsi.github.io/dimes_spring/)
 *Click for the interactive ownership diagram.*
 
 Aisa Shelley has three establishments in Dimes Square, making him the most dedicated owner in the area. He has partnered with Regina's Grocery’s Roman Grandinetti and Mr. Fong’s Adam Mooves on several projects. Jon Neidich built his restaurant empire in collaboration with other major restaurateurs like Nicholas Mathers. Additionally, Nicholas Mathers’ Wish You Were Here Group has many successful ventures statewide and in Manhattan, such as Dudley's and Ruby's; however, since the diagram only includes the first-degree owner and their immediate businesses, his other ventures are out of scope. Bar Belly’s owners delivered a diverse expansion, from Phillip Winser’s The Orchard Townhouse and the Towill family’s hospitality journey to England, to its newly sister restaurant, Carlota, next door. Michelin chef Ignacio Mattos left his footprints across Manhattan, from Rockefeller Center’s Lodi and NoHo’s Estela to the historical landmark Jarmulowsky Bank Building’s Corner Bar.
@@ -62,22 +62,22 @@ Overall, besides the celebrated restauranteurs I mentioned, the ownership struct
 
 #### Now and Then: The Cycle of Area’s Vibrancy
 
-![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimesfilm/dimes_Scarrs.jpg" }})
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimesfilm/main/dimes_Scarrs.jpg" }})
 *There is always a line in front of Scarr’s, a popular pizzaria on Orchard Street.*
 
 My first impression of Dimes Square was in 2018 when I visited a photography exhibition on Ludlow Street. I did not know this place was called Dimes Square; we all called it Chinatown. There was a fish slaughterhouse next door. Skaters hung out at the nearby Seaward Park. Trash exploded from the top of the trash bin. There were some interesting shops and restaurants catering to the younger and affluent crowd, but mostly they were traditional Chinese mom-and-pop stores. I got a sense that this shabby area was low key a “cool” place, and I thought maybe I wasn’t cool enough to step into some boutiques with designer items, not even to dine in those new Mediterranean restaurants where the only menu vocabulary in my head was tacos and margaritas. In 2020, I became more engaged with Lower Manhattan after briefly working in fashion. I once assisted a show for Café Forgot on the sidewalk and dressed almost naked models next to the fish slaughterhouse. Then I moved to Broome Street in 2021; I noticed an unimaginable volume of crowd difference after the COVID-19 lockdown. It has become a counter-culture version of Times Square. People from other neighborhoods come here to have a good time.
 
-![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimesfilm/dimes_Casino_2.jpg" }})
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimesfilm/main/dimes_Casino_2.jpg" }})
 *Casino, an Italian-inspired restaurant, was once a Chinese restaurant “Mission.”*
 
-![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimesfilm/dimes_Kiki_2.jpg" }})
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimesfilm/main/dimes_Kiki_2.jpg" }})
 *My friend Zoe Lin told me her discovery about Kiki’s Chinese sign was purposely added on from her [“Chinatown Produce Network”](https://zoelin1122.github.io/ChinatownProduceNetwork/) project*
 
 It has a theme. The fusion of Chinese and European tastes geographically makes Dimes Square special. However, upon closer inspection, it is not a total cultural integration; rather, it has a unique model. The formation of Dimes Square resembles a Chinese mall owned by majority Chinese landlords, filled with French and Italian-inspired businesses, but with less attraction for local Chinese residents. Although the old Chinatown identity has become somewhat distant in this area, the property is still predominantly owned by Chinese landlords, as indicated by data from “Who Owns What in NYC?” Many neighborhoods have undergone similar shifting processes throughout history, with transitions in their characteristics and demographics.[^4] It is normal for a place to undergo cycles of upgrade or decline over time. Some argue that the upgrading process is gentrification. Indeed, from this perspective, it has affected many small, old businesses; however, it has also attracted a larger, affluent crowd to shop in this neighborhood, making it even more vibrant and influential. From an economic standpoint, perhaps the development of Dimes Square is not a bad thing.
 
 #### A Tasteful Cartography: An Aerial View of Epicurean Economy
 
-![]({{ "https://raw.githubusercontent.com/hsianghsi/images/dimes360/dimes360_la_dive_7.jpg" }})
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimes360/dimes360_la_dive_7.jpg" }})
 *People were capturing the sunset at Dimes Square in the Summer, 2023.*
 
 Imagine reliving the bustling Five Points at their peak with a bourgeois taste. That's how I envision today's Dimes Square, although personal imagination is obscured and subjective. The project aims to guide us through the culinary business development journey of Dimes Square over the past twenty years. From open data, we can observe the unique attributes, trends and outreach. Dimes Square has evolved from a culinary-cultural import hub to a more balanced status with a distinct style and influence today.
