@@ -11,7 +11,7 @@ The project aims to explore the evolution of the trendy locale known as "Dimes S
 
 #### Introduction: A Geographic Guide to Cultural Influence
 
-[![]({{ "/images/dimes_graph/DS_main_3.png” | adjustImagePath }})](https://hsianghsi.github.io/dimes/)
+[![]({{ "/images/dimes_graph/DS_main_3.png" | adjustImagePath }})](https://hsianghsi.github.io/dimes/)
 *Click for the interactive map.*
 
 Cool people frequent Dimes Square; influencers and models call Dimes Square home; French tourists seek their New York experience in Dimes Square. It's the new trendsetting hub, replacing 90s SoHo, a fresh formulation of excitement and creativity. While not an official neighborhood name, Dimes Square is situated at the intersection of Canal Street and Ludlow Street, roughly overlapping a small section on the edge of Chinatown, Lower East Side, and Two Bridges. With its concentration of trendy bars, restaurants, and sidewalk cafés, it has become a popular leisure spot post-pandemic.
@@ -31,7 +31,7 @@ From the yearly distribution, two surges in openings are evident. The first wave
 
 #### Is It Local? The Inflow and Outflow of Restauranteur Migration
 
-![]({{ "/images/dimes_graph/DS_flow_2.png” | adjustImagePath }})
+![]({{ "/images/dimes_graph/DS_flow_2.png" | adjustImagePath }})
 *The map depicts the first and the last business ventures for the same owners.*
 
 As of the end of 2023, there were 60 owners who own or have partnerships in 31 operating establishments with on-premises liquor licenses in Dimes Square. I will break down the business opening patterns in the following section.
