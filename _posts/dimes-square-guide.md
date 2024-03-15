@@ -38,15 +38,19 @@ From the yearly distribution, two surges in openings are evident. The first wave
 As of the end of 2023, there were 60 owners who own or have partnerships in 31 operating establishments with on-premises liquor licenses in Dimes Square. I will break down the business opening patterns in the following section.
 
 a. Inflow (opened any business before Dimes Square):
+
 Dimes Square businesses (11 owners running 8 DBAs) were significantly influenced by surrounding establishments in Lower Manhattan. Some of them were opened by experienced restaurateurs. Notably, businesses such as Jon Neidich’s ACME in NoHo to Le Dive; Ignacio Mattos’s Estela in NoHo to Corner Bar; Aisa Shelly’s Mr. Fong’s in Two Bridges to Casino and Casetta; Koorosh Bakhtiar and Nima Garos’ Gelso & Grand in Little Italy to Jajaja Mexicana on East Broadway.
 
 b. Outflow (opened any business in Dimes Square first):
+
 Some successful Dimes Square businesses (7 owners running 5 DBAs) became the foundation for other businesses elsewhere. For example, Regina's Grocery on Orchard Street expanded its locations to SoHo and the Upper East Side; Benjamin Towill’s Bar Belly to Basic Kitchen in South Carolina and Ferry Boat in Falmouth, England.
 
 c. Within Flow (opened businesses only in Dimes Square):
+
 Many owners (9 owners running 8 DBAs) decided to open their second and third establishments within Dimes Square. This includes the renowned Dimes and Dimes Deli, the team Forgetmenot run by Pavlos Sierros, and his former employee Kiki Karamintzas’ Kiki’s, team Parcelle’s Tolo, and team Bar Belly’s next-door location Carlota.
 
 d. No Flow (opened only one business in Dimes Square):
+
 Over half of the owners (33 owners running 9 DBAs) only have one business in Dimes Square, which includes 169 Bar, Bacaro, LES Crepes & Taqueria, Little Canal, Metrograph, Scarr's Pizza, Two Bridges Luncheonette, Up Stairs, and Wu's Wonton King.
 
 In summary, over half of the current businesses were born locally or are local sister businesses without direct outside influence. Over a quarter of the businesses were part of the experienced restaurateurs' culinary empire. Despite the vibrancy in the area, however, only five establishments brought the Dimes Square experience outside its boundary so far.
