@@ -47,11 +47,11 @@ Some successful Dimes Square businesses (7 owners running 5 DBAs) became the fou
 
 c. Within Flow (opened businesses only in Dimes Square):
 
-Many owners (9 owners running 8 DBAs) decided to open their second and third establishments within Dimes Square. This includes the renowned Dimes and Dimes Deli, the team Forgetmenot run by Pavlos Sierros, and his former employee Kiki Karamintzas’ Kiki’s, team Parcelle’s Tolo, and team Bar Belly’s next-door location Carlota.
+Many owners (9 owners running 8 DBAs) decided to open their second and third establishments within Dimes Square. Those include the renowned Dimes and Dimes Deli, the team Forgetmenot run by Pavlos Sierros, and his former employee Kiki Karamintzas’ Kiki’s, team Parcelle’s Tolo, and team Bar Belly’s next-door location Carlota.
 
 d. No Flow (opened only one business in Dimes Square):
 
-Over half of the owners (33 owners running 9 DBAs) only have one business in Dimes Square, which includes 169 Bar, Bacaro, LES Crepes & Taqueria, Little Canal, Metrograph, Scarr's Pizza, Two Bridges Luncheonette, Up Stairs, and Wu's Wonton King.
+Over half of the owners (33 owners running 9 DBAs) only have one business in Dimes Square, which include 169 Bar, Bacaro, LES Crepes & Taqueria, Little Canal, Metrograph, Scarr's Pizza, Two Bridges Luncheonette, Up Stairs, and Wu's Wonton King.
 
 In summary, over half of the current businesses were born locally or are local sister businesses without direct outside influence. Over a quarter of the businesses were part of the experienced restaurateurs' culinary empire. Despite the vibrancy in the area, however, only five establishments brought the Dimes Square experience outside its boundary so far.
 
@@ -76,6 +76,9 @@ My first impression of Dimes Square was in 2018 when I visited a photography exh
 
 ![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimesfilm/dimes_Kiki_2.jpg" }})
 *My friend Zoe Lin told me her discovery regarding Kiki’s Chinese sign, which was was intentionally added as part of her [“Chinatown Produce Network”](https://zoelin1122.github.io/ChinatownProduceNetwork/) project.*
+
+![]({{ "https://raw.githubusercontent.com/hsianghsi/images/main/dimesfilm/dimes_DS_2.jpg" }})
+*A tour guide showing visitors Dimes Square in front of Ming Tower, the building adjacent to Dimes Deli.”*
 
 It has a theme. The fusion of Chinese and European tastes geographically makes Dimes Square special. However, upon closer inspection, it is not a total cultural integration; rather, it has a unique model. The formation of Dimes Square resembles a Chinese mall owned by majority Chinese landlords, filled with French and Italian-inspired businesses, but with less attraction for local Chinese residents. Although the old Chinatown identity has become somewhat distant in this area, the property is still predominantly owned by Chinese landlords, as indicated by data from “Who Owns What in NYC?” Many neighborhoods have undergone similar shifting processes throughout history, with transitions in their characteristics and demographics.[^4] It is normal for a place to undergo cycles of upgrade or decline over time. Some argue that the upgrading process is gentrification. Indeed, from this perspective, it has affected many small, old businesses; however, it has also attracted a larger, affluent crowd to shop in this neighborhood, making it even more vibrant and influential. From an economic standpoint, perhaps the development of Dimes Square is not a bad thing.
 
