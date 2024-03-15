@@ -12,6 +12,7 @@ The project aims to explore the evolution of the trendy locale known as "Dimes S
 #### Introduction: A Geographic Guide to Cultural Influence
 
 [![]({{ "/images/dimes_graph/DS_main_3.png" | adjustImagePath }})](https://hsianghsi.github.io/dimes/)
+
 *Click for the interactive map.*
 
 Cool people frequent Dimes Square; influencers and models call Dimes Square home; French tourists seek their New York experience in Dimes Square. It's the new trendsetting hub, replacing 90s SoHo, a fresh formulation of excitement and creativity. While not an official neighborhood name, Dimes Square is situated at the intersection of Canal Street and Ludlow Street, roughly overlapping a small section on the edge of Chinatown, Lower East Side, and Two Bridges. With its concentration of trendy bars, restaurants, and sidewalk cafés, it has become a popular leisure spot post-pandemic.
@@ -70,7 +71,7 @@ My first impression of Dimes Square was in 2018 when I visited a photography exh
 *Casino, an Italian-inspired restaurant, was once a Chinese restaurant “Mission.”*
 
 ![]({{ "/images/dimesfilm/dimes_Kiki_2.jpg" | adjustImagePath }})
-*My friend Zoe told me her discovery about Kiki’s Chinese sign was purposely added on from her “Chinatown Food Project.”*
+*My friend Zoe Lin told me her discovery about Kiki’s Chinese sign was purposely added on from her [“Chinatown Produce Network”](https://zoelin1122.github.io/ChinatownProduceNetwork/) project*
 
 It has a theme. The fusion of Chinese and European tastes geographically makes Dimes Square special. However, upon closer inspection, it is not a total cultural integration; rather, it has a unique model. The formation of Dimes Square resembles a Chinese mall owned by majority Chinese landlords, filled with French and Italian-inspired businesses, but with less attraction for local Chinese residents. Although the old Chinatown identity has become somewhat distant in this area, the property is still predominantly owned by Chinese landlords, as indicated by data from “Who Owns What in NYC?” Many neighborhoods have undergone similar shifting processes throughout history, with transitions in their characteristics and demographics.[^4] It is normal for a place to undergo cycles of upgrade or decline over time. Some argue that the upgrading process is gentrification. Indeed, from this perspective, it has affected many small, old businesses; however, it has also attracted a larger, affluent crowd to shop in this neighborhood, making it even more vibrant and influential. From an economic standpoint, perhaps the development of Dimes Square is not a bad thing.
 
@@ -148,7 +149,7 @@ I would also like to acknowledge the ethical considerations related to taking ph
 
 3. [Open Restaurant Applications, Department of Transportation (DOT)](https://data.cityofnewyork.us/Transportation/Open-Restaurant-Applications/pitm-atqc), accessed on July 13, 2023.
 
-4. [NYC Open Data Owner / Building Info], (https://data.cityofnewyork.us/Housing-Development/Owner-Building-Info/sshn-8ixj/about_data), accessed on March 4, 2024
+4. [NYC Open Data Owner / Building Info](https://data.cityofnewyork.us/Housing-Development/Owner-Building-Info/sshn-8ixj/about_data), accessed on March 4, 2024
 
 5. [Who Owns What in NYC?](https://whoownswhat.justfix.org/)
 

@@ -18,8 +18,9 @@
                Email: <a href="mailto:luhsianghsi@gmail.com">luhsianghsi@gmail.com</a></p>
         </div>
         <div class="post-list">
-            {% for post in collections.posts %}
+            <p>Projects:</p>
             {% assign sortedPosts = collections.posts | sort: 'data.year' | reverse %}
+            {% for post in sortedPosts %}
                 <h3><a href="{{ post.fileSlug }}">{{ post.data.title }} ({{ post.data.year }})</a></h3>
             {% endfor %}
         </div>
