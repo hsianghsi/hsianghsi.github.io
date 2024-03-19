@@ -130,7 +130,7 @@ First, I added a column labeled “class” to categorize businesses based on th
 
 b. Mapping
 
-For visualization, I used JavaScript and Mapbox. First, I added markers for each owner’s DBA location and applied different colors based on their class. Then, I grouped the DBAs based on the same owner and arranged them in sequential order yearly. Third, I applied lines to each DBA location to trace the geographical expansion of the business. Fourth, I added “start” and “end” labels for the first and the last DBAs for the same owner.
+For mapping visualization, I used JavaScript and Mapbox. First, I added markers for each owner’s DBA location and applied different colors based on their class. Then, I grouped the DBAs based on the same owner and arranged them in sequential order yearly. Third, I applied lines to each DBA location to trace the geographical expansion of the business. Lastly, I added “start” and “end” labels for the first and the last DBAs for the same owner.
 
 c. Spring Diagram
 
@@ -156,7 +156,7 @@ The project focuses on new culinary businesses that obtained an on-premises liqu
 
 The documentation of the project started in July 2023 and ended in February 2024. I would like to express great appreciation to my friends who kept me company and helped take photos at the bars and restaurants. I would not be confident enough to take 360-degree photos inside a busy restaurant without the support and encouragement of my friends, especially given the suspicious gaze from staff and customers.
 
-I would also like to acknowledge the ethical considerations related to taking photos inside a restaurant, which is a private domain. There exists a grey area between capturing images for documentation purposes and taking self-portraits for personal use. I would be greatly appreciative if anyone finds themselves captured in a photo unsolicited in a private setting. Please notify me, and I will address the issue immediately.
+I would also like to acknowledge the ethical considerations related to taking photos inside a restaurant, which is a private domain. There exists a grey area between capturing images for documentation purposes and taking self-portraits for personal use. I would be greatly appreciative if anyone finds themselves captured in a photo unsolicited in a private setting that they would not like to be publicly shared. Please notify me, and I will address the issue immediately.
 
 #### Data Source
 
