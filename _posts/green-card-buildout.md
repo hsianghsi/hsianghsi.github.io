@@ -145,7 +145,7 @@ For the final touch of the project, it is important to document the actual site 
 
 ![TSX Time Squre]({{ "/img/eb5/tsx.jpg" | adjustImagePath }})
 
-*The Times Square EDITION (left) and TSX Bradway (right) in Time Square were financed by U.S. Immigration Fund - NY.*
+*The Times Square EDITION (left) and TSX Broadway (right) in Time Square were financed by U.S. Immigration Fund - NY.*
 
 ![One Wall Street]({{ "/img/eb5/one-wall-street.jpg" | adjustImagePath }})
 
